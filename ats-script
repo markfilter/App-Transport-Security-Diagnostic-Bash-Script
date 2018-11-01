@@ -1,0 +1,3 @@
+#!/bin/bash
+read -p 'URL Endpoint: ' endpoint
+nscurl --ats-diagnostics $endpoint --verbose
