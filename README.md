@@ -8,6 +8,12 @@ read -p 'URL Endpoint: ' endpoint
 nscurl --ats-diagnostics $endpoint --verbose
 ```
 
+## How To Use
+1. Clone Repo.
+2. Double Click on executable.
+3. In Terminal window, add URL Endpoint to test.
+4. Hit Enter.
+5. View recommended ATS settings to establish connection with server.
 
 ## License
 
